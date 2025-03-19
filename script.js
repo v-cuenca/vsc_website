@@ -1,1 +1,1 @@
-alert ('Qué tal?')
+alert ('How are you?')
